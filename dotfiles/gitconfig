@@ -77,8 +77,8 @@
 	untracked = red
 
 [user]
-	email = IvanMalison@gmail.com
-	name = Ivan Malison
+	email = youngaustin.d@gmail.com
+	name = Austin Young
 
 [merge]
 	conflictstyle = diff3
