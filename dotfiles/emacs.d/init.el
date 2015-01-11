@@ -1592,3 +1592,5 @@ window is active in the perspective."
 ;; This is needed because you can't set the font at daemon start-up.
 (add-hook 'after-make-frame-functions 'set-my-font-for-frame)
 (add-hook 'after-make-frame-functions (lambda (frame) (set-theme)))
+
+(use-package neo-tree :ensure t)
